@@ -8,4 +8,4 @@ By using Win + Alt, user can display the Mouse Position and Color at the positio
 When the program is opened, the window reminds the user of the shortcut (see image below).
 
 ![Mouse Position](https://github.com/djorgensentech/coordReader/blob/main/default_position.png)
-a
+
