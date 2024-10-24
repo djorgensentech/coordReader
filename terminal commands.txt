@@ -1,0 +1,4 @@
+Building
+pyinstaller --onefile --windowed --add-data "coords.ico;." --icon=coords.ico main.py
+
+Exe located in dist folder
